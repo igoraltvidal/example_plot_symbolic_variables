@@ -1,7 +1,7 @@
-#Matlab example
+# Matlab example
 
 Plot a expression definied by symbolic variables, this is useful for functions that you can't isolate the variables.
 
-##License
+## License
 
 Free, tottaly!
